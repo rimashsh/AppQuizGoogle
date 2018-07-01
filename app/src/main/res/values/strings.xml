@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AppQuiz</string>
+    <string name="question_no_1">1) What river separates the ranges of the chimpanzee and the bonobo?
+</string>
+    <string name="answer_1">Congo River</string>
+    <string name="question_no_2">2) What is the capital of Mali?</string>
+    <string name="question_no_3">3) What of these countries that share a border with Nigeria? </string>
+    <string name="question_no_4">4) This is the flag of which country?</string>
+    <string name="question_no_5">5) What is the main currency of Tunisia? </string>
+    <string name="question_no_6">6) This is the shape of which country? </string>
+    <string name="answer_2_label_a">Bamako</string>
+    <string name="answer_2_label_b">Timbuktu</string>
+    <string name="answer_2_label_c">Nouakchott</string>
+    <string name="answer_2_label_d">Ouagadougou</string>
+    <string name="answer_3_label_a">Gabon</string>
+    <string name="answer_3_label_b">Niger</string>
+    <string name="answer_3_label_c">Mali</string>
+    <string name="answer_3_label_d">Cameron</string>
+    <string name="answer_4_label_a">Central african republic</string>
+    <string name="answer_4_label_b">Zambia</string>
+    <string name="answer_4_label_c">Mali</string>
+    <string name="answer_4_label_d">Angola</string>
+    <string name="answer_1_hint">Enter your Answer</string>
+    <string name="answer_4_hint">Enter Your Answer</string>
+    <string name="answer_5">Dinar</string>
+    <string name="answer_6_label_a">Chad</string>
+    <string name="answer_6_label_b">Mali</string>
+    <string name="answer_6_label_c">Sudan</string>
+    <string name="answer_6_label_d">Ethiopia</string>
+    <string name="result_score_message">Your Score is %d / %d</string>
+    <string name="submit">SUBMIT</string>
+    <string name="submit_quiz">Submit Your Quiz</string>
+    <string name="reset">RESET</string>
+</resources>
